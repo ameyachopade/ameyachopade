@@ -55,7 +55,7 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 ![AWS](https://api.gitlytics.dev/api/logos/aws.svg?style=logo_text) ![Docker](https://api.gitlytics.dev/api/logos/docker.svg?style=logo_text) ![Git](https://api.gitlytics.dev/api/logos/git.svg?style=logo_text) ![GitHub](https://api.gitlytics.dev/api/logos/github.svg?style=logo_text) ![DigitalOcean](https://api.gitlytics.dev/api/logos/digitalocean.svg?style=logo_text)
 
 ### Tools & Platforms
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F36E00?style=for-the-badge) ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge) ![N8N](https://api.gitlytics.dev/api/logos/n8n.svg?style=logo_text) ![Kaggle](https://api.gitlytics.dev/api/logos/kaggle.svg?style=logo_text)
+![GitHub Copilot](https://api.gitlytics.dev/api/badge/tech.svg?slug=github&label_color=F1F3F5&style=icon_label_value&label=Tool&value=Copilot&variant=flat) ![Groq](https://api.gitlytics.dev/api/badge/tech.svg?slug=llm&style=icon_label_value&label=AI&value=Groq&variant=flat) ![Antigravity](https://api.gitlytics.dev/api/badge/tech.svg?slug=portfolio&style=icon_label_value&label=Tool&value=Antigravity&variant=flat) ![N8N](https://api.gitlytics.dev/api/logos/n8n.svg?style=logo_text) ![Kaggle](https://api.gitlytics.dev/api/logos/kaggle.svg?style=logo_text)
 
 </div>
 
@@ -65,7 +65,7 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 
 <div align="center">
 
-<a href="https://ameyac11.in" target="_blank"><img src="https://api.gitlytics.dev/api/logos/portfolio.svg?style=logo_text" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/ameyac11" target="_blank"><img src="https://api.gitlytics.dev/api/logos/linkedin.svg?style=logo_text" alt="LinkedIn"/></a> <a href="mailto:ameyaccod171@gmail.com"><img src="https://api.gitlytics.dev/api/logos/gmail.svg?style=logo_text" alt="Email"/></a>
+<a href="https://ameyac11.in" target="_blank"><img src="https://api.gitlytics.dev/api/logos/portfolio.svg?style=logo_text" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/ameyachopade" target="_blank"><img src="https://api.gitlytics.dev/api/logos/linkedin.svg?style=logo_text" alt="LinkedIn"/></a> <a href="mailto:ameyaccod171@gmail.com"><img src="https://api.gitlytics.dev/api/logos/gmail.svg?style=logo_text" alt="Email"/></a>
 
 </div>
 
@@ -73,10 +73,31 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://api.gitlytics.dev/api/cards/profile-details/ameyachopade.svg?utcOffset=0&theme=dracula" alt="Profile Summary" />
-  <br/><br/>
-  <img src="https://api.gitlytics.dev/api/cards/contribution-streak/ameyachopade.svg?utcOffset=0&theme=autumn-harvest" alt="GitHub Streak" />
-  <br/><br/>
+
+<!-- Flagship developer profile card -->
+<img src="https://api.gitlytics.dev/api/cards/profile-card/ameyachopade.svg?theme=obsidian-gold&v=3" alt="Developer Profile Card" width="95%" />
+
+<br/><br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://api.gitlytics.dev/api/cards/account-highlights/ameyachopade.svg?theme=tokyonight&v=3" alt="Account Highlights" width="95%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://api.gitlytics.dev/api/cards/language-diversity/ameyachopade.svg?theme=dracula&v=3" alt="Language Diversity" width="95%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://api.gitlytics.dev/api/cards/combined-contributions/ameyachopade.svg?theme=nord&v=3" alt="All Contributions" width="95%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://api.gitlytics.dev/api/cards/contribution-streak/ameyachopade.svg?theme=autumn-harvest&v=3" alt="GitHub Streak" width="95%" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
